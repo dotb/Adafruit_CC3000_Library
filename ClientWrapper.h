@@ -9,7 +9,7 @@
   
 */
 /**************************************************************************/
-
+/*
 #ifndef clientwrapper_h
 #define clientwrapper_h
 #include "Arduino.h"	
@@ -51,6 +51,8 @@ private:
   class Adafruit_CC3000_Client* widoClient;
   static uint16_t _srcport;
   uint8_t _sock;
+  
 };
 
 #endif
+*/
